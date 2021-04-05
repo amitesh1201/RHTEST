@@ -1,2 +1,2 @@
-# RHTEST
+# TEST
 For  testing
